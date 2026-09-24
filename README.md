@@ -29,6 +29,22 @@
 * **[Чек-лист](https://docs.google.com/spreadsheets/d/1wcx0CEgdparOT6EXZOOxoQGAZI6KWP5vO9ybIMARF4A/edit?gid=336872680#gid=336872680)**.
 * **[Баг-репорты](https://docs.google.com/spreadsheets/d/1JgfPEOqQX1fOQL_IRjyR323YKlvjGHyq9ZPw7ELmYfw/edit?gid=1186534874#gid=1186534874)**.
 
+### 💻 Проект: API приложения "Яндекс.Прилавок"
+* **[Чек-лист](https://docs.google.com/spreadsheets/d/1LnE1hz_dBd6itBB7-5uTbmW9CBGBZ3Slw_5ns9XG-Ng/edit?gid=2006427015#gid=2006427015)**.
+* **[Баг-репорты](https://docs.google.com/spreadsheets/d/1LnE1hz_dBd6itBB7-5uTbmW9CBGBZ3Slw_5ns9XG-Ng/edit?gid=449926005#gid=449926005)**.
+
+### 🤖 Проект: Мобильное приложение "Яндекс.Метро"
+* **[Функциональный чек-лист](https://docs.google.com/spreadsheets/d/1wCWSX7Z2gy6aYZ-aIM9SgtmbQIeFzN0tItAO5FBbObE/edit?gid=899462569#gid=899462569)**.
+* **[Регрессионный чек-лист](https://docs.google.com/spreadsheets/d/1wCWSX7Z2gy6aYZ-aIM9SgtmbQIeFzN0tItAO5FBbObE/edit?gid=1540435533#gid=1540435533)**.
+* **[Баг-репорты](https://docs.google.com/spreadsheets/d/1wCWSX7Z2gy6aYZ-aIM9SgtmbQIeFzN0tItAO5FBbObE/edit?gid=193750317#gid=193750317)**.
+
+### 💻 Проект: Веб-приложение "Яндекс.Маршруты"
+* **[Чек-лист (вёрстка)](https://docs.google.com/spreadsheets/d/1tst_NT2U8UE1fRCnkOS5ApMYY4hNh6Zz5rENfNMxTY8/edit?gid=899462569#gid=899462569)**.
+* **[Чек-лист "Способ оплаты" и "Добавление карты"](https://docs.google.com/spreadsheets/d/1tst_NT2U8UE1fRCnkOS5ApMYY4hNh6Zz5rENfNMxTY8/edit?gid=1540435533#gid=1540435533)**.
+* **[Тест-кейсы (кнопка "Забронировать")](https://docs.google.com/spreadsheets/d/1tst_NT2U8UE1fRCnkOS5ApMYY4hNh6Zz5rENfNMxTY8/edit?gid=1567345705#gid=1567345705)**.
+* **[Баг-репорты](https://docs.google.com/spreadsheets/d/1tst_NT2U8UE1fRCnkOS5ApMYY4hNh6Zz5rENfNMxTY8/edit?gid=977751969#gid=977751969)**.
+
+
 > **Примечание:** Все доступы к таблицам открыты в режиме «Только для чтения».
 
 ---
