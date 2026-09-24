@@ -29,7 +29,7 @@
 * **[Чек-лист](https://docs.google.com/spreadsheets/d/1wcx0CEgdparOT6EXZOOxoQGAZI6KWP5vO9ybIMARF4A/edit?gid=336872680#gid=336872680)**.
 * **[Баг-репорты](https://docs.google.com/spreadsheets/d/1JgfPEOqQX1fOQL_IRjyR323YKlvjGHyq9ZPw7ELmYfw/edit?gid=1186534874#gid=1186534874)**.
 
-### 💻 Проект: API приложения "Яндекс.Прилавок"
+### ⚙️ Проект: API приложения "Яндекс.Прилавок"
 * **[Чек-лист](https://docs.google.com/spreadsheets/d/1LnE1hz_dBd6itBB7-5uTbmW9CBGBZ3Slw_5ns9XG-Ng/edit?gid=2006427015#gid=2006427015)**.
 * **[Баг-репорты](https://docs.google.com/spreadsheets/d/1LnE1hz_dBd6itBB7-5uTbmW9CBGBZ3Slw_5ns9XG-Ng/edit?gid=449926005#gid=449926005)**.
 
