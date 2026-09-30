@@ -18,7 +18,8 @@
 
 ### 📱 Проект: Приложение "Яндекс.Самокат"
 #### 💻 Веб-приложение
-* **[Чек-лист](https://docs.google.com/spreadsheets/d/1wcx0CEgdparOT6EXZOOxoQGAZI6KWP5vO9ybIMARF4A/edit?gid=943703744#gid=943703744)**.
+* **[Чек-лист (Функциональные проверки и UI)](https://docs.google.com/spreadsheets/d/1wcx0CEgdparOT6EXZOOxoQGAZI6KWP5vO9ybIMARF4A/edit?gid=943703744#gid=943703744)**.
+* **[Чек-лист (API)](https://docs.google.com/spreadsheets/d/1wcx0CEgdparOT6EXZOOxoQGAZI6KWP5vO9ybIMARF4A/edit?gid=336872680#gid=336872680)**.
 * **[Данные валидации](https://docs.google.com/spreadsheets/d/1wcx0CEgdparOT6EXZOOxoQGAZI6KWP5vO9ybIMARF4A/edit?gid=1540465171#gid=1540465171)**.
 * **[Баги вне тестовой документации](https://docs.google.com/spreadsheets/d/1wcx0CEgdparOT6EXZOOxoQGAZI6KWP5vO9ybIMARF4A/edit?gid=1539613303#gid=1539613303)**.
 * **[Баг-репорты](https://docs.google.com/spreadsheets/d/1JgfPEOqQX1fOQL_IRjyR323YKlvjGHyq9ZPw7ELmYfw/edit?gid=1186534874#gid=1186534874)**.
